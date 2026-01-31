@@ -142,7 +142,7 @@ Screenshots of all dashboard pages are available in the `Dashboard_Screenshots` 
 ---
 
 ## 👤 Author
-**Buddy**  
+**DHIVYA PRIYA. A**  
 Power BI | Data Analytics | Business Intelligence  
 
 ---
